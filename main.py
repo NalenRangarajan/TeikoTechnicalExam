@@ -27,6 +27,7 @@ def total_cell_count(cursor, sample_id, pop_type_cnt):
 def get_sample_row_data(cursor, row):
     sample_id = row[0]
     total_count = total_cell_count(cursor, sample_id, get_population_type_size(cursor))
+    time_from_treatment_start = row[3]
     population_list = list()
     for i in range(1, get_population_type_size(cursor) + 1):
         population_name = get_population_type_name_from_population_type_id(cursor, i)
@@ -39,7 +40,7 @@ def get_sample_row_data(cursor, row):
                             "percentage": percentage
                         })
 
-    return sample_id, total_count, population_list
+    return sample_id, total_count, population_list, time_from_treatment_start
     
 def main():
     with sqlite3.connect(database) as conn:
@@ -49,16 +50,13 @@ def main():
         rows = cursor.fetchall()
         data = []
         print("Before Data analysis")
-        i = 0
         for row in rows:
-            if i <= 100: #FIX ME REMOVER
-                row_data = get_sample_row_data(cursor, row)
-                data.append({
-                            "sample_id": row_data[0], 
-                            "total_count": row_data[1],
-                            "population_list": row_data[2]
-                            })
-            i = i + 1
+            row_data = get_sample_row_data(cursor, row)
+            data.append({
+                        "sample_id": row_data[0], 
+                        "total_count": row_data[1],
+                        "population_list": row_data[2]
+                        })
         print("Writing JSON")
         with open("table_data.json", "w") as file:
             json.dump(data, file, indent=4)
@@ -100,21 +98,19 @@ def main():
             no_samples = cursor.fetchall()
             i = 0
             for sample in no_samples:
-                if i <= 100: #fix me remover
-                    sample_data = get_sample_row_data(cursor, sample)
-                    all_samples.append(
-                        {
-                            "sample_id": sample_data[0],
-                            "response": "no",
-                            "population_list": sample_data[2]
-                        }
-                    )
-                    b_cell_list_no.append(sample_data[2][0]["percentage"])
-                    cd8_t_cell_list_no.append(sample_data[2][1]["percentage"])
-                    cd4_t_cell_list_no.append(sample_data[2][2]["percentage"])
-                    nk_cell_list_no.append(sample_data[2][3]["percentage"])
-                    monocyte_list_no.append(sample_data[2][4]["percentage"])
-                i = i + 1
+                sample_data = get_sample_row_data(cursor, sample)
+                all_samples.append(
+                    {
+                        "sample_id": sample_data[0],
+                        "response": "no",
+                        "population_list": sample_data[2]
+                    }
+                )
+                b_cell_list_no.append(sample_data[2][0]["percentage"])
+                cd8_t_cell_list_no.append(sample_data[2][1]["percentage"])
+                cd4_t_cell_list_no.append(sample_data[2][2]["percentage"])
+                nk_cell_list_no.append(sample_data[2][3]["percentage"])
+                monocyte_list_no.append(sample_data[2][4]["percentage"])
                     
 
         yes_subject_ids = [row[0] for row in yes_rows]
@@ -128,21 +124,19 @@ def main():
             yes_samples = cursor.fetchall()
             i = 0
             for sample in yes_samples:
-                if i <= 100: #fix me remover
-                    sample_data = get_sample_row_data(cursor, sample)
-                    all_samples.append(
-                        {
-                            "sample_id": sample_data[0],
-                            "response": "yes",
-                            "population_list": sample_data[2]
-                        }
-                    )
-                    b_cell_list_yes.append(sample_data[2][0]["percentage"])
-                    cd8_t_cell_list_yes.append(sample_data[2][1]["percentage"])
-                    cd4_t_cell_list_yes.append(sample_data[2][2]["percentage"])
-                    nk_cell_list_yes.append(sample_data[2][3]["percentage"])
-                    monocyte_list_yes.append(sample_data[2][4]["percentage"])
-                i = i + 1
+                sample_data = get_sample_row_data(cursor, sample)
+                all_samples.append(
+                    {
+                        "sample_id": sample_data[0],
+                        "response": "yes",
+                        "population_list": sample_data[2]
+                    }
+                )
+                b_cell_list_yes.append(sample_data[2][0]["percentage"])
+                cd8_t_cell_list_yes.append(sample_data[2][1]["percentage"])
+                cd4_t_cell_list_yes.append(sample_data[2][2]["percentage"])
+                nk_cell_list_yes.append(sample_data[2][3]["percentage"])
+                monocyte_list_yes.append(sample_data[2][4]["percentage"])
         with open("pbmc_data.json", "w") as file:
             json.dump(all_samples, file, indent=4)
 
@@ -216,7 +210,146 @@ def main():
 
         with open("stats.json", "w") as file:
             json.dump(stats_data, file, indent=4) 
-        
+
+
+        #part 4 querying
+        condition = "melanoma"
+        treatment = "miraclib"
+        sample_type = "PBMC"
+        time_from_treatment_start = 0
+
+        cursor.execute("SELECT subject_id FROM subject WHERE treatment = ? AND condition = ?", (treatment, condition))
+        rows = cursor.fetchall()
+
+        baseline_ids = [row[0] for row in rows]
+        baseline_samples = []
+        baseline_sample_rows = []
+        if baseline_ids:
+            ids = ",".join("?" * len(baseline_ids))
+            cursor.execute(
+                f"SELECT * FROM sample WHERE subject_id IN ({ids}) AND sample_type = ?", 
+                (*baseline_ids, sample_type)
+            )
+            baseline_samples = cursor.fetchall()
+            i = 0
+            for sample in baseline_samples:
+                sample_data = get_sample_row_data(cursor, sample)
+                baseline_sample_rows.append(
+                    {
+                        "sample_id": sample_data[0]
+                    }
+                )
+
+        with open("baseline_data.json", "w") as file:
+            json.dump(baseline_sample_rows, file, indent=4) 
+
+        #project adding
+        cursor.execute(
+            f"""
+            SELECT project.project_id, COUNT(sample.sample_id)
+            FROM project
+            LEFT JOIN subject
+                ON project.project_id = subject.project_id
+            LEFT JOIN sample
+                ON subject.subject_id = sample.subject_id
+                AND sample.sample_type = ?
+                AND subject.subject_id IN ({ids})
+            GROUP BY project.project_id
+            """,
+            (sample_type, *baseline_ids)
+        )
+
+        project_sample_counts = dict(cursor.fetchall())
+
+        #responders
+        cursor.execute("SELECT subject_id FROM subject WHERE treatment = ? AND condition = ? AND response = ?", (treatment, condition, "yes"))
+        rows = cursor.fetchall()
+
+        baseline_ids = [row[0] for row in rows]
+        baseline_samples = []
+        baseline_sample_rows = []
+        yes_count = 0
+        if baseline_ids:
+            ids = ",".join("?" * len(baseline_ids))
+            cursor.execute(
+                f"SELECT * FROM sample WHERE subject_id IN ({ids}) AND sample_type = ?", 
+                (*baseline_ids, sample_type)
+            )
+            baseline_samples = cursor.fetchall()
+            yes_count = len(baseline_samples)
+
+        #nonresponders
+        cursor.execute("SELECT subject_id FROM subject WHERE treatment = ? AND condition = ? AND response = ?", (treatment, condition, "no"))
+        rows = cursor.fetchall()
+
+        baseline_ids = [row[0] for row in rows]
+        baseline_samples = []
+        baseline_sample_rows = []
+        no_count = 0
+        if baseline_ids:
+            ids = ",".join("?" * len(baseline_ids))
+            cursor.execute(
+                f"SELECT * FROM sample WHERE subject_id IN ({ids}) AND sample_type = ?", 
+                (*baseline_ids, sample_type)
+            )
+            baseline_samples = cursor.fetchall()
+            no_count = len(baseline_samples)
+
+        #male samples
+        cursor.execute("SELECT subject_id FROM subject WHERE treatment = ? AND condition = ? AND sex = ?", (treatment, condition, "M"))
+        rows = cursor.fetchall()
+
+        baseline_ids = [row[0] for row in rows]
+        baseline_samples = []
+        baseline_sample_rows = []
+        male_count = 0
+        if baseline_ids:
+            ids = ",".join("?" * len(baseline_ids))
+            cursor.execute(
+                f"SELECT * FROM sample WHERE subject_id IN ({ids}) AND sample_type = ?", 
+                (*baseline_ids, sample_type)
+            )
+            baseline_samples = cursor.fetchall()
+            male_count = len(baseline_samples)
+
+        #female samples
+        cursor.execute("SELECT subject_id FROM subject WHERE treatment = ? AND condition = ? AND sex = ?", (treatment, condition, "F"))
+        rows = cursor.fetchall()
+
+        baseline_ids = [row[0] for row in rows]
+        baseline_samples = []
+        baseline_sample_rows = []
+        female_count = 0
+        if baseline_ids:
+            ids = ",".join("?" * len(baseline_ids))
+            cursor.execute(
+                f"SELECT * FROM sample WHERE subject_id IN ({ids}) AND sample_type = ?", 
+                (*baseline_ids, sample_type)
+            )
+            baseline_samples = cursor.fetchall()
+            female_count = len(baseline_samples)
+
+
+        final_query = {
+            "project":
+            {
+                "1": project_sample_counts[1],
+                "2": project_sample_counts[2],
+                "3": project_sample_counts[3]
+            },
+            "response": {
+                "yes": yes_count,
+                "no": no_count
+            },
+            "sex": {
+                "M": male_count,
+                "F": female_count        
+            }
+        }
+
+        with open("final_query_data.json", "w") as file:
+            json.dump(final_query, file, indent=4) 
+
 
 if __name__ == "__main__":
     main()

@@ -1,27 +1,27 @@
 {
     "b_cell": {
-        "u": 5053.5,
-        "p": 0.9109,
+        "u": 508199.5,
+        "p": 0.0557,
         "msg": "Fail to reject the null hypothesis: The two distributions are not significantly difference with a p value of: "
     },
     "cd8_t_cell": {
-        "u": 5194.0,
-        "p": 0.8229,
+        "u": 489997.0,
+        "p": 0.6392,
         "msg": "Fail to reject the null hypothesis: The two distributions are not significantly difference with a p value of: "
     },
     "cd4_t_cell": {
-        "u": 4442.0,
-        "p": 0.1132,
-        "msg": "Fail to reject the null hypothesis: The two distributions are not significantly difference with a p value of: "
+        "u": 452920.0,
+        "p": 0.0134,
+        "msg": "Reject the null hypothesis: The two distributions are significantly difference with a p value of: "
     },
     "nk_cell": {
-        "u": 5280.0,
-        "p": 0.6665,
+        "u": 503628.5,
+        "p": 0.1211,
         "msg": "Fail to reject the null hypothesis: The two distributions are not significantly difference with a p value of: "
     },
     "monocyte": {
-        "u": 5641.5,
-        "p": 0.1932,
+        "u": 501650.0,
+        "p": 0.1635,
         "msg": "Fail to reject the null hypothesis: The two distributions are not significantly difference with a p value of: "
     }
 }

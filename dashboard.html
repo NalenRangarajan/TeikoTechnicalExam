@@ -41,6 +41,23 @@
 <h2>Report:</h2>
 <p id="stats-report"></p>
 
+<h2>Baseline Data:</h2>
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Sample ID</th>
+            </tr>
+        </thead>
+
+        <tbody id="baseline-table">
+        </tbody>
+    </table>
+</div>
+
+<h2>Baseline Data Report:</h2>
+<p id="baseline-report"></p>
+
 <script>
     fetch("table_data.json")
         .then(response => response.json())
@@ -133,6 +150,49 @@
 
                 container.appendChild(div);
             });
+        });
+    fetch("baseline_data.json")
+        .then(response => response.json())
+        .then(data => {
+            const table = document.getElementById("baseline-table");
+            data.forEach(row => {
+                const tr = document.createElement("tr");
+
+                tr.innerHTML = `
+                    <td>${row.sample_id}</td>
+                `;
+
+                table.appendChild(tr);
+
+                
+            });
+        });
+    fetch("final_query_data.json")
+        .then(response => response.json())
+        .then(data => {
+            const container = document.getElementById("baseline-report");
+            const div1 = document.createElement("div");
+            div1.innerHTML = `
+                    <h3>Project Counts:</h3>
+                    <p>Project 1: ${data.project["1"]}</p>
+                    <p>Project 2: ${data.project["2"]}</p>
+                    <p>Project 3${data.project["3"]}</p>
+                `;
+            const div2 = document.createElement("div");
+            div2.innerHTML = `
+                    <h3>Response Counts:</h3>
+                    <p>Responders: ${data.response.yes}</p>
+                    <p>Non-responders: ${data.response.no}</p>
+                `;
+            const div3 = document.createElement("div");
+            div3.innerHTML = `
+                    <h3>Sex Counts:</h3>
+                    <p>Male: ${data.sex["M"]}</p>
+                    <p>Female: ${data.sex["F"]}</p>
+                `;
+            container.appendChild(div1);
+            container.appendChild(div2);
+            container.appendChild(div3);
         });
 </script>
 <style>
