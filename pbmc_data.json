@@ -1,0 +1,6264 @@
+[
+    {
+        "sample_id": 0,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10908,
+                "percentage": 11.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24440,
+                "percentage": 26.22
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 20491,
+                "percentage": 21.98
+            },
+            {
+                "name": "nk_cell",
+                "count": 13864,
+                "percentage": 14.87
+            },
+            {
+                "name": "monocyte",
+                "count": 23511,
+                "percentage": 25.22
+            }
+        ]
+    },
+    {
+        "sample_id": 1,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6777,
+                "percentage": 6.72
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19407,
+                "percentage": 19.25
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33459,
+                "percentage": 33.19
+            },
+            {
+                "name": "nk_cell",
+                "count": 18170,
+                "percentage": 18.02
+            },
+            {
+                "name": "monocyte",
+                "count": 23011,
+                "percentage": 22.82
+            }
+        ]
+    },
+    {
+        "sample_id": 2,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9794,
+                "percentage": 10.55
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22940,
+                "percentage": 24.71
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24274,
+                "percentage": 26.15
+            },
+            {
+                "name": "nk_cell",
+                "count": 17482,
+                "percentage": 18.83
+            },
+            {
+                "name": "monocyte",
+                "count": 18332,
+                "percentage": 19.75
+            }
+        ]
+    },
+    {
+        "sample_id": 6,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5897,
+                "percentage": 5.91
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31296,
+                "percentage": 31.37
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28319,
+                "percentage": 28.38
+            },
+            {
+                "name": "nk_cell",
+                "count": 12656,
+                "percentage": 12.68
+            },
+            {
+                "name": "monocyte",
+                "count": 21606,
+                "percentage": 21.65
+            }
+        ]
+    },
+    {
+        "sample_id": 7,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10403,
+                "percentage": 10.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 13504,
+                "percentage": 13.72
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33870,
+                "percentage": 34.41
+            },
+            {
+                "name": "nk_cell",
+                "count": 22616,
+                "percentage": 22.98
+            },
+            {
+                "name": "monocyte",
+                "count": 18031,
+                "percentage": 18.32
+            }
+        ]
+    },
+    {
+        "sample_id": 8,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8829,
+                "percentage": 9.77
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26215,
+                "percentage": 29.01
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21307,
+                "percentage": 23.58
+            },
+            {
+                "name": "nk_cell",
+                "count": 17624,
+                "percentage": 19.51
+            },
+            {
+                "name": "monocyte",
+                "count": 16378,
+                "percentage": 18.13
+            }
+        ]
+    },
+    {
+        "sample_id": 9,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7650,
+                "percentage": 7.98
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 33334,
+                "percentage": 34.79
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21097,
+                "percentage": 22.02
+            },
+            {
+                "name": "nk_cell",
+                "count": 18064,
+                "percentage": 18.85
+            },
+            {
+                "name": "monocyte",
+                "count": 15676,
+                "percentage": 16.36
+            }
+        ]
+    },
+    {
+        "sample_id": 10,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13203,
+                "percentage": 12.28
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21339,
+                "percentage": 19.84
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27873,
+                "percentage": 25.92
+            },
+            {
+                "name": "nk_cell",
+                "count": 13209,
+                "percentage": 12.28
+            },
+            {
+                "name": "monocyte",
+                "count": 31913,
+                "percentage": 29.68
+            }
+        ]
+    },
+    {
+        "sample_id": 11,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10621,
+                "percentage": 11.83
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19786,
+                "percentage": 22.03
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29391,
+                "percentage": 32.72
+            },
+            {
+                "name": "nk_cell",
+                "count": 13520,
+                "percentage": 15.05
+            },
+            {
+                "name": "monocyte",
+                "count": 16497,
+                "percentage": 18.37
+            }
+        ]
+    },
+    {
+        "sample_id": 72,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8730,
+                "percentage": 9.33
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26500,
+                "percentage": 28.31
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 22481,
+                "percentage": 24.01
+            },
+            {
+                "name": "nk_cell",
+                "count": 16601,
+                "percentage": 17.73
+            },
+            {
+                "name": "monocyte",
+                "count": 19301,
+                "percentage": 20.62
+            }
+        ]
+    },
+    {
+        "sample_id": 73,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10426,
+                "percentage": 9.94
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28944,
+                "percentage": 27.59
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26510,
+                "percentage": 25.27
+            },
+            {
+                "name": "nk_cell",
+                "count": 19451,
+                "percentage": 18.54
+            },
+            {
+                "name": "monocyte",
+                "count": 19567,
+                "percentage": 18.65
+            }
+        ]
+    },
+    {
+        "sample_id": 74,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13166,
+                "percentage": 14.27
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18608,
+                "percentage": 20.18
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33699,
+                "percentage": 36.54
+            },
+            {
+                "name": "nk_cell",
+                "count": 15559,
+                "percentage": 16.87
+            },
+            {
+                "name": "monocyte",
+                "count": 11200,
+                "percentage": 12.14
+            }
+        ]
+    },
+    {
+        "sample_id": 81,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9595,
+                "percentage": 10.29
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18940,
+                "percentage": 20.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31245,
+                "percentage": 33.49
+            },
+            {
+                "name": "nk_cell",
+                "count": 14582,
+                "percentage": 15.63
+            },
+            {
+                "name": "monocyte",
+                "count": 18924,
+                "percentage": 20.29
+            }
+        ]
+    },
+    {
+        "sample_id": 82,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6068,
+                "percentage": 5.87
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31190,
+                "percentage": 30.17
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30549,
+                "percentage": 29.55
+            },
+            {
+                "name": "nk_cell",
+                "count": 17900,
+                "percentage": 17.31
+            },
+            {
+                "name": "monocyte",
+                "count": 17682,
+                "percentage": 17.1
+            }
+        ]
+    },
+    {
+        "sample_id": 83,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7306,
+                "percentage": 8.28
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23204,
+                "percentage": 26.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23762,
+                "percentage": 26.93
+            },
+            {
+                "name": "nk_cell",
+                "count": 16442,
+                "percentage": 18.63
+            },
+            {
+                "name": "monocyte",
+                "count": 17528,
+                "percentage": 19.86
+            }
+        ]
+    },
+    {
+        "sample_id": 123,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8588,
+                "percentage": 8.47
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26624,
+                "percentage": 26.26
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29889,
+                "percentage": 29.48
+            },
+            {
+                "name": "nk_cell",
+                "count": 17161,
+                "percentage": 16.92
+            },
+            {
+                "name": "monocyte",
+                "count": 19142,
+                "percentage": 18.88
+            }
+        ]
+    },
+    {
+        "sample_id": 124,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7220,
+                "percentage": 7.93
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23608,
+                "percentage": 25.93
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28332,
+                "percentage": 31.12
+            },
+            {
+                "name": "nk_cell",
+                "count": 12327,
+                "percentage": 13.54
+            },
+            {
+                "name": "monocyte",
+                "count": 19553,
+                "percentage": 21.48
+            }
+        ]
+    },
+    {
+        "sample_id": 125,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 18039,
+                "percentage": 16.68
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 34464,
+                "percentage": 31.86
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27052,
+                "percentage": 25.01
+            },
+            {
+                "name": "nk_cell",
+                "count": 13365,
+                "percentage": 12.36
+            },
+            {
+                "name": "monocyte",
+                "count": 15254,
+                "percentage": 14.1
+            }
+        ]
+    },
+    {
+        "sample_id": 153,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12772,
+                "percentage": 12.11
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27496,
+                "percentage": 26.08
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30009,
+                "percentage": 28.46
+            },
+            {
+                "name": "nk_cell",
+                "count": 18319,
+                "percentage": 17.37
+            },
+            {
+                "name": "monocyte",
+                "count": 16853,
+                "percentage": 15.98
+            }
+        ]
+    },
+    {
+        "sample_id": 154,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4851,
+                "percentage": 4.94
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29394,
+                "percentage": 29.92
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29002,
+                "percentage": 29.52
+            },
+            {
+                "name": "nk_cell",
+                "count": 20254,
+                "percentage": 20.62
+            },
+            {
+                "name": "monocyte",
+                "count": 14743,
+                "percentage": 15.01
+            }
+        ]
+    },
+    {
+        "sample_id": 155,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9098,
+                "percentage": 9.25
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31146,
+                "percentage": 31.67
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29519,
+                "percentage": 30.01
+            },
+            {
+                "name": "nk_cell",
+                "count": 15004,
+                "percentage": 15.25
+            },
+            {
+                "name": "monocyte",
+                "count": 13591,
+                "percentage": 13.82
+            }
+        ]
+    },
+    {
+        "sample_id": 174,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7405,
+                "percentage": 7.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22137,
+                "percentage": 22.63
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32965,
+                "percentage": 33.7
+            },
+            {
+                "name": "nk_cell",
+                "count": 20805,
+                "percentage": 21.27
+            },
+            {
+                "name": "monocyte",
+                "count": 14505,
+                "percentage": 14.83
+            }
+        ]
+    },
+    {
+        "sample_id": 175,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11412,
+                "percentage": 10.6
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23005,
+                "percentage": 21.36
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 36667,
+                "percentage": 34.04
+            },
+            {
+                "name": "nk_cell",
+                "count": 13648,
+                "percentage": 12.67
+            },
+            {
+                "name": "monocyte",
+                "count": 22975,
+                "percentage": 21.33
+            }
+        ]
+    },
+    {
+        "sample_id": 176,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7371,
+                "percentage": 7.58
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18491,
+                "percentage": 19.02
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31741,
+                "percentage": 32.65
+            },
+            {
+                "name": "nk_cell",
+                "count": 13042,
+                "percentage": 13.41
+            },
+            {
+                "name": "monocyte",
+                "count": 26575,
+                "percentage": 27.33
+            }
+        ]
+    },
+    {
+        "sample_id": 186,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12451,
+                "percentage": 12.48
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 32194,
+                "percentage": 32.26
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21131,
+                "percentage": 21.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 14883,
+                "percentage": 14.92
+            },
+            {
+                "name": "monocyte",
+                "count": 19122,
+                "percentage": 19.16
+            }
+        ]
+    },
+    {
+        "sample_id": 187,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13389,
+                "percentage": 13.76
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22858,
+                "percentage": 23.5
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25999,
+                "percentage": 26.73
+            },
+            {
+                "name": "nk_cell",
+                "count": 12980,
+                "percentage": 13.34
+            },
+            {
+                "name": "monocyte",
+                "count": 22047,
+                "percentage": 22.67
+            }
+        ]
+    },
+    {
+        "sample_id": 188,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10012,
+                "percentage": 10.69
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20985,
+                "percentage": 22.41
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30565,
+                "percentage": 32.64
+            },
+            {
+                "name": "nk_cell",
+                "count": 12910,
+                "percentage": 13.79
+            },
+            {
+                "name": "monocyte",
+                "count": 19179,
+                "percentage": 20.48
+            }
+        ]
+    },
+    {
+        "sample_id": 189,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7128,
+                "percentage": 7.73
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25593,
+                "percentage": 27.74
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32117,
+                "percentage": 34.81
+            },
+            {
+                "name": "nk_cell",
+                "count": 9460,
+                "percentage": 10.25
+            },
+            {
+                "name": "monocyte",
+                "count": 17971,
+                "percentage": 19.48
+            }
+        ]
+    },
+    {
+        "sample_id": 190,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5835,
+                "percentage": 5.42
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30522,
+                "percentage": 28.34
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30147,
+                "percentage": 27.99
+            },
+            {
+                "name": "nk_cell",
+                "count": 13942,
+                "percentage": 12.94
+            },
+            {
+                "name": "monocyte",
+                "count": 27256,
+                "percentage": 25.31
+            }
+        ]
+    },
+    {
+        "sample_id": 191,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10650,
+                "percentage": 10.91
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30449,
+                "percentage": 31.19
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25785,
+                "percentage": 26.41
+            },
+            {
+                "name": "nk_cell",
+                "count": 12249,
+                "percentage": 12.55
+            },
+            {
+                "name": "monocyte",
+                "count": 18500,
+                "percentage": 18.95
+            }
+        ]
+    },
+    {
+        "sample_id": 213,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11597,
+                "percentage": 11.74
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23412,
+                "percentage": 23.71
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33550,
+                "percentage": 33.97
+            },
+            {
+                "name": "nk_cell",
+                "count": 15161,
+                "percentage": 15.35
+            },
+            {
+                "name": "monocyte",
+                "count": 15033,
+                "percentage": 15.22
+            }
+        ]
+    },
+    {
+        "sample_id": 214,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13613,
+                "percentage": 13.33
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26516,
+                "percentage": 25.96
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23583,
+                "percentage": 23.09
+            },
+            {
+                "name": "nk_cell",
+                "count": 13450,
+                "percentage": 13.17
+            },
+            {
+                "name": "monocyte",
+                "count": 24990,
+                "percentage": 24.46
+            }
+        ]
+    },
+    {
+        "sample_id": 215,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8136,
+                "percentage": 8.97
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24167,
+                "percentage": 26.64
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28823,
+                "percentage": 31.77
+            },
+            {
+                "name": "nk_cell",
+                "count": 10332,
+                "percentage": 11.39
+            },
+            {
+                "name": "monocyte",
+                "count": 19257,
+                "percentage": 21.23
+            }
+        ]
+    },
+    {
+        "sample_id": 243,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4990,
+                "percentage": 5.06
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22986,
+                "percentage": 23.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32382,
+                "percentage": 32.83
+            },
+            {
+                "name": "nk_cell",
+                "count": 17318,
+                "percentage": 17.56
+            },
+            {
+                "name": "monocyte",
+                "count": 20959,
+                "percentage": 21.25
+            }
+        ]
+    },
+    {
+        "sample_id": 244,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 3494,
+                "percentage": 3.59
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25315,
+                "percentage": 26.02
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35561,
+                "percentage": 36.55
+            },
+            {
+                "name": "nk_cell",
+                "count": 15870,
+                "percentage": 16.31
+            },
+            {
+                "name": "monocyte",
+                "count": 17047,
+                "percentage": 17.52
+            }
+        ]
+    },
+    {
+        "sample_id": 245,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12390,
+                "percentage": 12.9
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19581,
+                "percentage": 20.39
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32230,
+                "percentage": 33.56
+            },
+            {
+                "name": "nk_cell",
+                "count": 8588,
+                "percentage": 8.94
+            },
+            {
+                "name": "monocyte",
+                "count": 23257,
+                "percentage": 24.21
+            }
+        ]
+    },
+    {
+        "sample_id": 249,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13882,
+                "percentage": 14.1
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26030,
+                "percentage": 26.43
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23790,
+                "percentage": 24.16
+            },
+            {
+                "name": "nk_cell",
+                "count": 15430,
+                "percentage": 15.67
+            },
+            {
+                "name": "monocyte",
+                "count": 19345,
+                "percentage": 19.64
+            }
+        ]
+    },
+    {
+        "sample_id": 250,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10657,
+                "percentage": 10.29
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25338,
+                "percentage": 24.47
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24600,
+                "percentage": 23.75
+            },
+            {
+                "name": "nk_cell",
+                "count": 19347,
+                "percentage": 18.68
+            },
+            {
+                "name": "monocyte",
+                "count": 23617,
+                "percentage": 22.81
+            }
+        ]
+    },
+    {
+        "sample_id": 251,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8751,
+                "percentage": 8.89
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21432,
+                "percentage": 21.78
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29765,
+                "percentage": 30.25
+            },
+            {
+                "name": "nk_cell",
+                "count": 13742,
+                "percentage": 13.97
+            },
+            {
+                "name": "monocyte",
+                "count": 24696,
+                "percentage": 25.1
+            }
+        ]
+    },
+    {
+        "sample_id": 285,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 14107,
+                "percentage": 15.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18323,
+                "percentage": 20.22
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32219,
+                "percentage": 35.55
+            },
+            {
+                "name": "nk_cell",
+                "count": 10529,
+                "percentage": 11.62
+            },
+            {
+                "name": "monocyte",
+                "count": 15444,
+                "percentage": 17.04
+            }
+        ]
+    },
+    {
+        "sample_id": 286,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8639,
+                "percentage": 8.32
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22684,
+                "percentage": 21.83
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30448,
+                "percentage": 29.31
+            },
+            {
+                "name": "nk_cell",
+                "count": 16280,
+                "percentage": 15.67
+            },
+            {
+                "name": "monocyte",
+                "count": 25843,
+                "percentage": 24.87
+            }
+        ]
+    },
+    {
+        "sample_id": 287,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8995,
+                "percentage": 9.29
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 32971,
+                "percentage": 34.06
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 22642,
+                "percentage": 23.39
+            },
+            {
+                "name": "nk_cell",
+                "count": 15141,
+                "percentage": 15.64
+            },
+            {
+                "name": "monocyte",
+                "count": 17057,
+                "percentage": 17.62
+            }
+        ]
+    },
+    {
+        "sample_id": 402,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5436,
+                "percentage": 5.96
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24146,
+                "percentage": 26.49
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27551,
+                "percentage": 30.23
+            },
+            {
+                "name": "nk_cell",
+                "count": 9173,
+                "percentage": 10.06
+            },
+            {
+                "name": "monocyte",
+                "count": 24839,
+                "percentage": 27.25
+            }
+        ]
+    },
+    {
+        "sample_id": 403,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9302,
+                "percentage": 8.88
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23495,
+                "percentage": 22.42
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34774,
+                "percentage": 33.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 11290,
+                "percentage": 10.77
+            },
+            {
+                "name": "monocyte",
+                "count": 25941,
+                "percentage": 24.75
+            }
+        ]
+    },
+    {
+        "sample_id": 404,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8705,
+                "percentage": 9.14
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 17060,
+                "percentage": 17.91
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27367,
+                "percentage": 28.72
+            },
+            {
+                "name": "nk_cell",
+                "count": 24579,
+                "percentage": 25.8
+            },
+            {
+                "name": "monocyte",
+                "count": 17564,
+                "percentage": 18.44
+            }
+        ]
+    },
+    {
+        "sample_id": 411,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 15442,
+                "percentage": 14.3
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 12059,
+                "percentage": 11.17
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 40919,
+                "percentage": 37.89
+            },
+            {
+                "name": "nk_cell",
+                "count": 15623,
+                "percentage": 14.47
+            },
+            {
+                "name": "monocyte",
+                "count": 23948,
+                "percentage": 22.18
+            }
+        ]
+    },
+    {
+        "sample_id": 412,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4745,
+                "percentage": 4.79
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26431,
+                "percentage": 26.71
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27570,
+                "percentage": 27.86
+            },
+            {
+                "name": "nk_cell",
+                "count": 18861,
+                "percentage": 19.06
+            },
+            {
+                "name": "monocyte",
+                "count": 21356,
+                "percentage": 21.58
+            }
+        ]
+    },
+    {
+        "sample_id": 413,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8386,
+                "percentage": 7.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27257,
+                "percentage": 24.6
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38387,
+                "percentage": 34.65
+            },
+            {
+                "name": "nk_cell",
+                "count": 17184,
+                "percentage": 15.51
+            },
+            {
+                "name": "monocyte",
+                "count": 19573,
+                "percentage": 17.67
+            }
+        ]
+    },
+    {
+        "sample_id": 414,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6667,
+                "percentage": 7.2
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20017,
+                "percentage": 21.6
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24241,
+                "percentage": 26.16
+            },
+            {
+                "name": "nk_cell",
+                "count": 18004,
+                "percentage": 19.43
+            },
+            {
+                "name": "monocyte",
+                "count": 23724,
+                "percentage": 25.61
+            }
+        ]
+    },
+    {
+        "sample_id": 415,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11699,
+                "percentage": 10.99
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27307,
+                "percentage": 25.65
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23791,
+                "percentage": 22.34
+            },
+            {
+                "name": "nk_cell",
+                "count": 15773,
+                "percentage": 14.81
+            },
+            {
+                "name": "monocyte",
+                "count": 27902,
+                "percentage": 26.21
+            }
+        ]
+    },
+    {
+        "sample_id": 416,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6873,
+                "percentage": 7.61
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19186,
+                "percentage": 21.24
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35468,
+                "percentage": 39.26
+            },
+            {
+                "name": "nk_cell",
+                "count": 9748,
+                "percentage": 10.79
+            },
+            {
+                "name": "monocyte",
+                "count": 19067,
+                "percentage": 21.11
+            }
+        ]
+    },
+    {
+        "sample_id": 435,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10578,
+                "percentage": 9.84
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31278,
+                "percentage": 29.09
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31050,
+                "percentage": 28.88
+            },
+            {
+                "name": "nk_cell",
+                "count": 13996,
+                "percentage": 13.02
+            },
+            {
+                "name": "monocyte",
+                "count": 20614,
+                "percentage": 19.17
+            }
+        ]
+    },
+    {
+        "sample_id": 436,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6569,
+                "percentage": 7.27
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20107,
+                "percentage": 22.26
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24932,
+                "percentage": 27.6
+            },
+            {
+                "name": "nk_cell",
+                "count": 17056,
+                "percentage": 18.88
+            },
+            {
+                "name": "monocyte",
+                "count": 21660,
+                "percentage": 23.98
+            }
+        ]
+    },
+    {
+        "sample_id": 437,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9752,
+                "percentage": 9.99
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29532,
+                "percentage": 30.26
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26190,
+                "percentage": 26.83
+            },
+            {
+                "name": "nk_cell",
+                "count": 11872,
+                "percentage": 12.16
+            },
+            {
+                "name": "monocyte",
+                "count": 20264,
+                "percentage": 20.76
+            }
+        ]
+    },
+    {
+        "sample_id": 459,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7468,
+                "percentage": 7.74
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23530,
+                "percentage": 24.39
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30699,
+                "percentage": 31.82
+            },
+            {
+                "name": "nk_cell",
+                "count": 17456,
+                "percentage": 18.09
+            },
+            {
+                "name": "monocyte",
+                "count": 17334,
+                "percentage": 17.97
+            }
+        ]
+    },
+    {
+        "sample_id": 460,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7938,
+                "percentage": 7.79
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25279,
+                "percentage": 24.81
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33131,
+                "percentage": 32.52
+            },
+            {
+                "name": "nk_cell",
+                "count": 16376,
+                "percentage": 16.07
+            },
+            {
+                "name": "monocyte",
+                "count": 19169,
+                "percentage": 18.81
+            }
+        ]
+    },
+    {
+        "sample_id": 461,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12744,
+                "percentage": 12.61
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24463,
+                "percentage": 24.21
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32549,
+                "percentage": 32.21
+            },
+            {
+                "name": "nk_cell",
+                "count": 14524,
+                "percentage": 14.37
+            },
+            {
+                "name": "monocyte",
+                "count": 16772,
+                "percentage": 16.6
+            }
+        ]
+    },
+    {
+        "sample_id": 465,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6595,
+                "percentage": 7.04
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26819,
+                "percentage": 28.64
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25627,
+                "percentage": 27.37
+            },
+            {
+                "name": "nk_cell",
+                "count": 17935,
+                "percentage": 19.16
+            },
+            {
+                "name": "monocyte",
+                "count": 16653,
+                "percentage": 17.79
+            }
+        ]
+    },
+    {
+        "sample_id": 466,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 15853,
+                "percentage": 15.98
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23269,
+                "percentage": 23.45
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29404,
+                "percentage": 29.63
+            },
+            {
+                "name": "nk_cell",
+                "count": 9291,
+                "percentage": 9.36
+            },
+            {
+                "name": "monocyte",
+                "count": 21415,
+                "percentage": 21.58
+            }
+        ]
+    },
+    {
+        "sample_id": 467,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 14650,
+                "percentage": 15.71
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22738,
+                "percentage": 24.38
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23113,
+                "percentage": 24.78
+            },
+            {
+                "name": "nk_cell",
+                "count": 9471,
+                "percentage": 10.15
+            },
+            {
+                "name": "monocyte",
+                "count": 23304,
+                "percentage": 24.98
+            }
+        ]
+    },
+    {
+        "sample_id": 471,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6409,
+                "percentage": 6.03
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24626,
+                "percentage": 23.16
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38463,
+                "percentage": 36.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 14790,
+                "percentage": 13.91
+            },
+            {
+                "name": "monocyte",
+                "count": 22019,
+                "percentage": 20.71
+            }
+        ]
+    },
+    {
+        "sample_id": 472,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8943,
+                "percentage": 9.12
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26833,
+                "percentage": 27.36
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27580,
+                "percentage": 28.12
+            },
+            {
+                "name": "nk_cell",
+                "count": 14988,
+                "percentage": 15.28
+            },
+            {
+                "name": "monocyte",
+                "count": 19745,
+                "percentage": 20.13
+            }
+        ]
+    },
+    {
+        "sample_id": 473,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8540,
+                "percentage": 9.47
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 15898,
+                "percentage": 17.64
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29430,
+                "percentage": 32.65
+            },
+            {
+                "name": "nk_cell",
+                "count": 19306,
+                "percentage": 21.42
+            },
+            {
+                "name": "monocyte",
+                "count": 16972,
+                "percentage": 18.83
+            }
+        ]
+    },
+    {
+        "sample_id": 480,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10721,
+                "percentage": 10.45
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18050,
+                "percentage": 17.6
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27870,
+                "percentage": 27.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 24619,
+                "percentage": 24.01
+            },
+            {
+                "name": "monocyte",
+                "count": 21297,
+                "percentage": 20.77
+            }
+        ]
+    },
+    {
+        "sample_id": 481,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8306,
+                "percentage": 8.09
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29791,
+                "percentage": 29.0
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27280,
+                "percentage": 26.56
+            },
+            {
+                "name": "nk_cell",
+                "count": 18750,
+                "percentage": 18.26
+            },
+            {
+                "name": "monocyte",
+                "count": 18584,
+                "percentage": 18.09
+            }
+        ]
+    },
+    {
+        "sample_id": 482,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12509,
+                "percentage": 11.38
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25245,
+                "percentage": 22.97
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31739,
+                "percentage": 28.88
+            },
+            {
+                "name": "nk_cell",
+                "count": 14599,
+                "percentage": 13.28
+            },
+            {
+                "name": "monocyte",
+                "count": 25823,
+                "percentage": 23.49
+            }
+        ]
+    },
+    {
+        "sample_id": 492,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9674,
+                "percentage": 10.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24210,
+                "percentage": 26.77
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26382,
+                "percentage": 29.17
+            },
+            {
+                "name": "nk_cell",
+                "count": 14355,
+                "percentage": 15.87
+            },
+            {
+                "name": "monocyte",
+                "count": 15831,
+                "percentage": 17.5
+            }
+        ]
+    },
+    {
+        "sample_id": 493,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9490,
+                "percentage": 9.37
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27761,
+                "percentage": 27.4
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 16810,
+                "percentage": 16.59
+            },
+            {
+                "name": "nk_cell",
+                "count": 19198,
+                "percentage": 18.95
+            },
+            {
+                "name": "monocyte",
+                "count": 28058,
+                "percentage": 27.69
+            }
+        ]
+    },
+    {
+        "sample_id": 494,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8531,
+                "percentage": 8.12
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29764,
+                "percentage": 28.32
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30162,
+                "percentage": 28.7
+            },
+            {
+                "name": "nk_cell",
+                "count": 13187,
+                "percentage": 12.55
+            },
+            {
+                "name": "monocyte",
+                "count": 23440,
+                "percentage": 22.31
+            }
+        ]
+    },
+    {
+        "sample_id": 513,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 15841,
+                "percentage": 18.1
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18915,
+                "percentage": 21.62
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28149,
+                "percentage": 32.17
+            },
+            {
+                "name": "nk_cell",
+                "count": 11363,
+                "percentage": 12.99
+            },
+            {
+                "name": "monocyte",
+                "count": 13238,
+                "percentage": 15.13
+            }
+        ]
+    },
+    {
+        "sample_id": 514,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6158,
+                "percentage": 6.42
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28628,
+                "percentage": 29.85
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35372,
+                "percentage": 36.88
+            },
+            {
+                "name": "nk_cell",
+                "count": 15855,
+                "percentage": 16.53
+            },
+            {
+                "name": "monocyte",
+                "count": 9899,
+                "percentage": 10.32
+            }
+        ]
+    },
+    {
+        "sample_id": 515,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6356,
+                "percentage": 6.34
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23314,
+                "percentage": 23.25
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31016,
+                "percentage": 30.93
+            },
+            {
+                "name": "nk_cell",
+                "count": 20952,
+                "percentage": 20.89
+            },
+            {
+                "name": "monocyte",
+                "count": 18653,
+                "percentage": 18.6
+            }
+        ]
+    },
+    {
+        "sample_id": 516,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7126,
+                "percentage": 6.82
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30382,
+                "percentage": 29.07
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30109,
+                "percentage": 28.81
+            },
+            {
+                "name": "nk_cell",
+                "count": 16353,
+                "percentage": 15.65
+            },
+            {
+                "name": "monocyte",
+                "count": 20547,
+                "percentage": 19.66
+            }
+        ]
+    },
+    {
+        "sample_id": 517,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 17829,
+                "percentage": 17.8
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25068,
+                "percentage": 25.02
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27380,
+                "percentage": 27.33
+            },
+            {
+                "name": "nk_cell",
+                "count": 11357,
+                "percentage": 11.34
+            },
+            {
+                "name": "monocyte",
+                "count": 18551,
+                "percentage": 18.52
+            }
+        ]
+    },
+    {
+        "sample_id": 518,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11422,
+                "percentage": 11.67
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20239,
+                "percentage": 20.67
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30377,
+                "percentage": 31.02
+            },
+            {
+                "name": "nk_cell",
+                "count": 20997,
+                "percentage": 21.44
+            },
+            {
+                "name": "monocyte",
+                "count": 14879,
+                "percentage": 15.2
+            }
+        ]
+    },
+    {
+        "sample_id": 522,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9206,
+                "percentage": 10.01
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20979,
+                "percentage": 22.81
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27176,
+                "percentage": 29.54
+            },
+            {
+                "name": "nk_cell",
+                "count": 16684,
+                "percentage": 18.14
+            },
+            {
+                "name": "monocyte",
+                "count": 17945,
+                "percentage": 19.51
+            }
+        ]
+    },
+    {
+        "sample_id": 523,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11753,
+                "percentage": 12.11
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19842,
+                "percentage": 20.45
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24748,
+                "percentage": 25.5
+            },
+            {
+                "name": "nk_cell",
+                "count": 17742,
+                "percentage": 18.28
+            },
+            {
+                "name": "monocyte",
+                "count": 22951,
+                "percentage": 23.65
+            }
+        ]
+    },
+    {
+        "sample_id": 524,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8609,
+                "percentage": 8.58
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20392,
+                "percentage": 20.32
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37945,
+                "percentage": 37.82
+            },
+            {
+                "name": "nk_cell",
+                "count": 16247,
+                "percentage": 16.19
+            },
+            {
+                "name": "monocyte",
+                "count": 17149,
+                "percentage": 17.09
+            }
+        ]
+    },
+    {
+        "sample_id": 534,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5436,
+                "percentage": 5.62
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23946,
+                "percentage": 24.78
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29217,
+                "percentage": 30.23
+            },
+            {
+                "name": "nk_cell",
+                "count": 17314,
+                "percentage": 17.91
+            },
+            {
+                "name": "monocyte",
+                "count": 20739,
+                "percentage": 21.46
+            }
+        ]
+    },
+    {
+        "sample_id": 535,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6571,
+                "percentage": 6.26
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31103,
+                "percentage": 29.65
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34895,
+                "percentage": 33.27
+            },
+            {
+                "name": "nk_cell",
+                "count": 17327,
+                "percentage": 16.52
+            },
+            {
+                "name": "monocyte",
+                "count": 15000,
+                "percentage": 14.3
+            }
+        ]
+    },
+    {
+        "sample_id": 536,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9388,
+                "percentage": 9.79
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23915,
+                "percentage": 24.93
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25325,
+                "percentage": 26.4
+            },
+            {
+                "name": "nk_cell",
+                "count": 15928,
+                "percentage": 16.6
+            },
+            {
+                "name": "monocyte",
+                "count": 21373,
+                "percentage": 22.28
+            }
+        ]
+    },
+    {
+        "sample_id": 585,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7359,
+                "percentage": 7.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29864,
+                "percentage": 31.24
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32609,
+                "percentage": 34.11
+            },
+            {
+                "name": "nk_cell",
+                "count": 12169,
+                "percentage": 12.73
+            },
+            {
+                "name": "monocyte",
+                "count": 13590,
+                "percentage": 14.22
+            }
+        ]
+    },
+    {
+        "sample_id": 586,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13164,
+                "percentage": 13.44
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24615,
+                "percentage": 25.13
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30068,
+                "percentage": 30.69
+            },
+            {
+                "name": "nk_cell",
+                "count": 8215,
+                "percentage": 8.39
+            },
+            {
+                "name": "monocyte",
+                "count": 21908,
+                "percentage": 22.36
+            }
+        ]
+    },
+    {
+        "sample_id": 587,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6919,
+                "percentage": 6.61
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29973,
+                "percentage": 28.65
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30706,
+                "percentage": 29.35
+            },
+            {
+                "name": "nk_cell",
+                "count": 14898,
+                "percentage": 14.24
+            },
+            {
+                "name": "monocyte",
+                "count": 22111,
+                "percentage": 21.14
+            }
+        ]
+    },
+    {
+        "sample_id": 588,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7331,
+                "percentage": 7.63
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26366,
+                "percentage": 27.43
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25098,
+                "percentage": 26.11
+            },
+            {
+                "name": "nk_cell",
+                "count": 17426,
+                "percentage": 18.13
+            },
+            {
+                "name": "monocyte",
+                "count": 19917,
+                "percentage": 20.72
+            }
+        ]
+    },
+    {
+        "sample_id": 589,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8829,
+                "percentage": 9.86
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24983,
+                "percentage": 27.9
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21190,
+                "percentage": 23.66
+            },
+            {
+                "name": "nk_cell",
+                "count": 14537,
+                "percentage": 16.23
+            },
+            {
+                "name": "monocyte",
+                "count": 20006,
+                "percentage": 22.34
+            }
+        ]
+    },
+    {
+        "sample_id": 590,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13074,
+                "percentage": 14.5
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18007,
+                "percentage": 19.97
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27114,
+                "percentage": 30.07
+            },
+            {
+                "name": "nk_cell",
+                "count": 14173,
+                "percentage": 15.72
+            },
+            {
+                "name": "monocyte",
+                "count": 17802,
+                "percentage": 19.74
+            }
+        ]
+    },
+    {
+        "sample_id": 624,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11714,
+                "percentage": 11.38
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28232,
+                "percentage": 27.44
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35858,
+                "percentage": 34.85
+            },
+            {
+                "name": "nk_cell",
+                "count": 13010,
+                "percentage": 12.64
+            },
+            {
+                "name": "monocyte",
+                "count": 14076,
+                "percentage": 13.68
+            }
+        ]
+    },
+    {
+        "sample_id": 625,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10852,
+                "percentage": 11.39
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28112,
+                "percentage": 29.51
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24059,
+                "percentage": 25.26
+            },
+            {
+                "name": "nk_cell",
+                "count": 12948,
+                "percentage": 13.59
+            },
+            {
+                "name": "monocyte",
+                "count": 19280,
+                "percentage": 20.24
+            }
+        ]
+    },
+    {
+        "sample_id": 626,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7896,
+                "percentage": 7.2
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27700,
+                "percentage": 25.27
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 42872,
+                "percentage": 39.11
+            },
+            {
+                "name": "nk_cell",
+                "count": 10168,
+                "percentage": 9.27
+            },
+            {
+                "name": "monocyte",
+                "count": 20997,
+                "percentage": 19.15
+            }
+        ]
+    },
+    {
+        "sample_id": 639,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11413,
+                "percentage": 11.14
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25922,
+                "percentage": 25.31
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30509,
+                "percentage": 29.79
+            },
+            {
+                "name": "nk_cell",
+                "count": 11549,
+                "percentage": 11.28
+            },
+            {
+                "name": "monocyte",
+                "count": 23026,
+                "percentage": 22.48
+            }
+        ]
+    },
+    {
+        "sample_id": 640,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9954,
+                "percentage": 10.67
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19864,
+                "percentage": 21.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35018,
+                "percentage": 37.54
+            },
+            {
+                "name": "nk_cell",
+                "count": 9526,
+                "percentage": 10.21
+            },
+            {
+                "name": "monocyte",
+                "count": 18918,
+                "percentage": 20.28
+            }
+        ]
+    },
+    {
+        "sample_id": 641,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9515,
+                "percentage": 9.27
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31945,
+                "percentage": 31.12
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29355,
+                "percentage": 28.6
+            },
+            {
+                "name": "nk_cell",
+                "count": 7394,
+                "percentage": 7.2
+            },
+            {
+                "name": "monocyte",
+                "count": 24434,
+                "percentage": 23.8
+            }
+        ]
+    },
+    {
+        "sample_id": 693,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7743,
+                "percentage": 8.31
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25343,
+                "percentage": 27.19
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29633,
+                "percentage": 31.79
+            },
+            {
+                "name": "nk_cell",
+                "count": 17344,
+                "percentage": 18.61
+            },
+            {
+                "name": "monocyte",
+                "count": 13159,
+                "percentage": 14.12
+            }
+        ]
+    },
+    {
+        "sample_id": 694,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10546,
+                "percentage": 10.04
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18628,
+                "percentage": 17.74
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23213,
+                "percentage": 22.11
+            },
+            {
+                "name": "nk_cell",
+                "count": 24409,
+                "percentage": 23.25
+            },
+            {
+                "name": "monocyte",
+                "count": 28198,
+                "percentage": 26.86
+            }
+        ]
+    },
+    {
+        "sample_id": 695,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6475,
+                "percentage": 6.33
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 34956,
+                "percentage": 34.17
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23432,
+                "percentage": 22.91
+            },
+            {
+                "name": "nk_cell",
+                "count": 15949,
+                "percentage": 15.59
+            },
+            {
+                "name": "monocyte",
+                "count": 21485,
+                "percentage": 21.0
+            }
+        ]
+    },
+    {
+        "sample_id": 696,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6439,
+                "percentage": 6.98
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27929,
+                "percentage": 30.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24577,
+                "percentage": 26.66
+            },
+            {
+                "name": "nk_cell",
+                "count": 13951,
+                "percentage": 15.13
+            },
+            {
+                "name": "monocyte",
+                "count": 19291,
+                "percentage": 20.93
+            }
+        ]
+    },
+    {
+        "sample_id": 697,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6058,
+                "percentage": 6.21
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 17794,
+                "percentage": 18.24
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38732,
+                "percentage": 39.71
+            },
+            {
+                "name": "nk_cell",
+                "count": 15231,
+                "percentage": 15.61
+            },
+            {
+                "name": "monocyte",
+                "count": 19728,
+                "percentage": 20.22
+            }
+        ]
+    },
+    {
+        "sample_id": 698,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4173,
+                "percentage": 4.02
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30197,
+                "percentage": 29.07
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34274,
+                "percentage": 32.99
+            },
+            {
+                "name": "nk_cell",
+                "count": 10541,
+                "percentage": 10.15
+            },
+            {
+                "name": "monocyte",
+                "count": 24698,
+                "percentage": 23.77
+            }
+        ]
+    },
+    {
+        "sample_id": 717,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 15429,
+                "percentage": 14.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26170,
+                "percentage": 24.72
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26134,
+                "percentage": 24.69
+            },
+            {
+                "name": "nk_cell",
+                "count": 13075,
+                "percentage": 12.35
+            },
+            {
+                "name": "monocyte",
+                "count": 25052,
+                "percentage": 23.67
+            }
+        ]
+    },
+    {
+        "sample_id": 718,
+        "response": "no",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6527,
+                "percentage": 5.94
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 34870,
+                "percentage": 31.72
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 39312,
+                "percentage": 35.76
+            },
+            {
+                "name": "nk_cell",
+                "count": 15767,
+                "percentage": 14.34
+            },
+            {
+                "name": "monocyte",
+                "count": 13444,
+                "percentage": 12.23
+            }
+        ]
+    },
+    {
+        "sample_id": 24,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7552,
+                "percentage": 7.55
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27821,
+                "percentage": 27.83
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35270,
+                "percentage": 35.28
+            },
+            {
+                "name": "nk_cell",
+                "count": 19681,
+                "percentage": 19.69
+            },
+            {
+                "name": "monocyte",
+                "count": 9645,
+                "percentage": 9.65
+            }
+        ]
+    },
+    {
+        "sample_id": 25,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11714,
+                "percentage": 12.26
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21407,
+                "percentage": 22.41
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30323,
+                "percentage": 31.74
+            },
+            {
+                "name": "nk_cell",
+                "count": 20301,
+                "percentage": 21.25
+            },
+            {
+                "name": "monocyte",
+                "count": 11789,
+                "percentage": 12.34
+            }
+        ]
+    },
+    {
+        "sample_id": 26,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7936,
+                "percentage": 8.29
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23786,
+                "percentage": 24.83
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34545,
+                "percentage": 36.07
+            },
+            {
+                "name": "nk_cell",
+                "count": 13929,
+                "percentage": 14.54
+            },
+            {
+                "name": "monocyte",
+                "count": 15581,
+                "percentage": 16.27
+            }
+        ]
+    },
+    {
+        "sample_id": 60,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11035,
+                "percentage": 10.66
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21406,
+                "percentage": 20.68
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38817,
+                "percentage": 37.49
+            },
+            {
+                "name": "nk_cell",
+                "count": 14559,
+                "percentage": 14.06
+            },
+            {
+                "name": "monocyte",
+                "count": 17717,
+                "percentage": 17.11
+            }
+        ]
+    },
+    {
+        "sample_id": 61,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4508,
+                "percentage": 4.03
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 34867,
+                "percentage": 31.14
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38281,
+                "percentage": 34.19
+            },
+            {
+                "name": "nk_cell",
+                "count": 16013,
+                "percentage": 14.3
+            },
+            {
+                "name": "monocyte",
+                "count": 18301,
+                "percentage": 16.34
+            }
+        ]
+    },
+    {
+        "sample_id": 62,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10066,
+                "percentage": 10.56
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20104,
+                "percentage": 21.1
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21554,
+                "percentage": 22.62
+            },
+            {
+                "name": "nk_cell",
+                "count": 17505,
+                "percentage": 18.37
+            },
+            {
+                "name": "monocyte",
+                "count": 26057,
+                "percentage": 27.35
+            }
+        ]
+    },
+    {
+        "sample_id": 66,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8052,
+                "percentage": 7.51
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 35323,
+                "percentage": 32.92
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37350,
+                "percentage": 34.81
+            },
+            {
+                "name": "nk_cell",
+                "count": 13927,
+                "percentage": 12.98
+            },
+            {
+                "name": "monocyte",
+                "count": 12632,
+                "percentage": 11.77
+            }
+        ]
+    },
+    {
+        "sample_id": 67,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11874,
+                "percentage": 11.04
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24116,
+                "percentage": 22.41
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29460,
+                "percentage": 27.38
+            },
+            {
+                "name": "nk_cell",
+                "count": 21402,
+                "percentage": 19.89
+            },
+            {
+                "name": "monocyte",
+                "count": 20737,
+                "percentage": 19.27
+            }
+        ]
+    },
+    {
+        "sample_id": 68,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10501,
+                "percentage": 9.53
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 33801,
+                "percentage": 30.66
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35458,
+                "percentage": 32.16
+            },
+            {
+                "name": "nk_cell",
+                "count": 7397,
+                "percentage": 6.71
+            },
+            {
+                "name": "monocyte",
+                "count": 23088,
+                "percentage": 20.94
+            }
+        ]
+    },
+    {
+        "sample_id": 75,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 14480,
+                "percentage": 13.83
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26460,
+                "percentage": 25.27
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33149,
+                "percentage": 31.66
+            },
+            {
+                "name": "nk_cell",
+                "count": 14983,
+                "percentage": 14.31
+            },
+            {
+                "name": "monocyte",
+                "count": 15639,
+                "percentage": 14.94
+            }
+        ]
+    },
+    {
+        "sample_id": 76,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12385,
+                "percentage": 11.25
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23764,
+                "percentage": 21.58
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37340,
+                "percentage": 33.92
+            },
+            {
+                "name": "nk_cell",
+                "count": 15701,
+                "percentage": 14.26
+            },
+            {
+                "name": "monocyte",
+                "count": 20907,
+                "percentage": 18.99
+            }
+        ]
+    },
+    {
+        "sample_id": 77,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9602,
+                "percentage": 9.11
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18744,
+                "percentage": 17.78
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 42528,
+                "percentage": 40.34
+            },
+            {
+                "name": "nk_cell",
+                "count": 16602,
+                "percentage": 15.75
+            },
+            {
+                "name": "monocyte",
+                "count": 17956,
+                "percentage": 17.03
+            }
+        ]
+    },
+    {
+        "sample_id": 141,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4896,
+                "percentage": 4.72
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28642,
+                "percentage": 27.62
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35662,
+                "percentage": 34.39
+            },
+            {
+                "name": "nk_cell",
+                "count": 13171,
+                "percentage": 12.7
+            },
+            {
+                "name": "monocyte",
+                "count": 21325,
+                "percentage": 20.56
+            }
+        ]
+    },
+    {
+        "sample_id": 142,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10372,
+                "percentage": 10.48
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26865,
+                "percentage": 27.14
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32331,
+                "percentage": 32.66
+            },
+            {
+                "name": "nk_cell",
+                "count": 12124,
+                "percentage": 12.25
+            },
+            {
+                "name": "monocyte",
+                "count": 17299,
+                "percentage": 17.48
+            }
+        ]
+    },
+    {
+        "sample_id": 143,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7954,
+                "percentage": 8.36
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 32400,
+                "percentage": 34.04
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24873,
+                "percentage": 26.13
+            },
+            {
+                "name": "nk_cell",
+                "count": 19369,
+                "percentage": 20.35
+            },
+            {
+                "name": "monocyte",
+                "count": 10588,
+                "percentage": 11.12
+            }
+        ]
+    },
+    {
+        "sample_id": 165,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11804,
+                "percentage": 10.59
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19245,
+                "percentage": 17.26
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35119,
+                "percentage": 31.5
+            },
+            {
+                "name": "nk_cell",
+                "count": 23862,
+                "percentage": 21.4
+            },
+            {
+                "name": "monocyte",
+                "count": 21456,
+                "percentage": 19.25
+            }
+        ]
+    },
+    {
+        "sample_id": 166,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9198,
+                "percentage": 8.23
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21433,
+                "percentage": 19.18
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33200,
+                "percentage": 29.7
+            },
+            {
+                "name": "nk_cell",
+                "count": 21756,
+                "percentage": 19.46
+            },
+            {
+                "name": "monocyte",
+                "count": 26183,
+                "percentage": 23.43
+            }
+        ]
+    },
+    {
+        "sample_id": 167,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9538,
+                "percentage": 8.8
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 40134,
+                "percentage": 37.02
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26658,
+                "percentage": 24.59
+            },
+            {
+                "name": "nk_cell",
+                "count": 12901,
+                "percentage": 11.9
+            },
+            {
+                "name": "monocyte",
+                "count": 19194,
+                "percentage": 17.7
+            }
+        ]
+    },
+    {
+        "sample_id": 168,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8186,
+                "percentage": 7.99
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 32947,
+                "percentage": 32.17
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30370,
+                "percentage": 29.65
+            },
+            {
+                "name": "nk_cell",
+                "count": 18642,
+                "percentage": 18.2
+            },
+            {
+                "name": "monocyte",
+                "count": 12267,
+                "percentage": 11.98
+            }
+        ]
+    },
+    {
+        "sample_id": 169,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8106,
+                "percentage": 8.64
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23215,
+                "percentage": 24.74
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33236,
+                "percentage": 35.42
+            },
+            {
+                "name": "nk_cell",
+                "count": 14682,
+                "percentage": 15.65
+            },
+            {
+                "name": "monocyte",
+                "count": 14590,
+                "percentage": 15.55
+            }
+        ]
+    },
+    {
+        "sample_id": 170,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7984,
+                "percentage": 8.11
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25161,
+                "percentage": 25.56
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26639,
+                "percentage": 27.06
+            },
+            {
+                "name": "nk_cell",
+                "count": 14178,
+                "percentage": 14.4
+            },
+            {
+                "name": "monocyte",
+                "count": 24495,
+                "percentage": 24.88
+            }
+        ]
+    },
+    {
+        "sample_id": 261,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9523,
+                "percentage": 8.6
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 37067,
+                "percentage": 33.47
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27324,
+                "percentage": 24.67
+            },
+            {
+                "name": "nk_cell",
+                "count": 14390,
+                "percentage": 12.99
+            },
+            {
+                "name": "monocyte",
+                "count": 22459,
+                "percentage": 20.28
+            }
+        ]
+    },
+    {
+        "sample_id": 262,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8695,
+                "percentage": 8.75
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26686,
+                "percentage": 26.87
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35578,
+                "percentage": 35.82
+            },
+            {
+                "name": "nk_cell",
+                "count": 13342,
+                "percentage": 13.43
+            },
+            {
+                "name": "monocyte",
+                "count": 15026,
+                "percentage": 15.13
+            }
+        ]
+    },
+    {
+        "sample_id": 263,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10125,
+                "percentage": 10.39
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24439,
+                "percentage": 25.08
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31442,
+                "percentage": 32.26
+            },
+            {
+                "name": "nk_cell",
+                "count": 20420,
+                "percentage": 20.95
+            },
+            {
+                "name": "monocyte",
+                "count": 11028,
+                "percentage": 11.32
+            }
+        ]
+    },
+    {
+        "sample_id": 324,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5829,
+                "percentage": 5.42
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25471,
+                "percentage": 23.67
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21022,
+                "percentage": 19.54
+            },
+            {
+                "name": "nk_cell",
+                "count": 25102,
+                "percentage": 23.33
+            },
+            {
+                "name": "monocyte",
+                "count": 30169,
+                "percentage": 28.04
+            }
+        ]
+    },
+    {
+        "sample_id": 325,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9424,
+                "percentage": 9.2
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25662,
+                "percentage": 25.04
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26076,
+                "percentage": 25.45
+            },
+            {
+                "name": "nk_cell",
+                "count": 18187,
+                "percentage": 17.75
+            },
+            {
+                "name": "monocyte",
+                "count": 23130,
+                "percentage": 22.57
+            }
+        ]
+    },
+    {
+        "sample_id": 326,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12099,
+                "percentage": 12.39
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 14270,
+                "percentage": 14.61
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 36551,
+                "percentage": 37.43
+            },
+            {
+                "name": "nk_cell",
+                "count": 11454,
+                "percentage": 11.73
+            },
+            {
+                "name": "monocyte",
+                "count": 23287,
+                "percentage": 23.84
+            }
+        ]
+    },
+    {
+        "sample_id": 327,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12095,
+                "percentage": 12.26
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22173,
+                "percentage": 22.48
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30162,
+                "percentage": 30.58
+            },
+            {
+                "name": "nk_cell",
+                "count": 15723,
+                "percentage": 15.94
+            },
+            {
+                "name": "monocyte",
+                "count": 18479,
+                "percentage": 18.74
+            }
+        ]
+    },
+    {
+        "sample_id": 328,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11588,
+                "percentage": 12.04
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24900,
+                "percentage": 25.87
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25319,
+                "percentage": 26.3
+            },
+            {
+                "name": "nk_cell",
+                "count": 16105,
+                "percentage": 16.73
+            },
+            {
+                "name": "monocyte",
+                "count": 18355,
+                "percentage": 19.07
+            }
+        ]
+    },
+    {
+        "sample_id": 329,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10454,
+                "percentage": 9.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23108,
+                "percentage": 21.45
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35118,
+                "percentage": 32.6
+            },
+            {
+                "name": "nk_cell",
+                "count": 19559,
+                "percentage": 18.16
+            },
+            {
+                "name": "monocyte",
+                "count": 19493,
+                "percentage": 18.09
+            }
+        ]
+    },
+    {
+        "sample_id": 333,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12249,
+                "percentage": 12.62
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21075,
+                "percentage": 21.71
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33510,
+                "percentage": 34.52
+            },
+            {
+                "name": "nk_cell",
+                "count": 5600,
+                "percentage": 5.77
+            },
+            {
+                "name": "monocyte",
+                "count": 24650,
+                "percentage": 25.39
+            }
+        ]
+    },
+    {
+        "sample_id": 334,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13875,
+                "percentage": 13.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 16142,
+                "percentage": 15.94
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32336,
+                "percentage": 31.94
+            },
+            {
+                "name": "nk_cell",
+                "count": 13175,
+                "percentage": 13.01
+            },
+            {
+                "name": "monocyte",
+                "count": 25713,
+                "percentage": 25.4
+            }
+        ]
+    },
+    {
+        "sample_id": 335,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9604,
+                "percentage": 9.39
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19327,
+                "percentage": 18.9
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33271,
+                "percentage": 32.54
+            },
+            {
+                "name": "nk_cell",
+                "count": 13117,
+                "percentage": 12.83
+            },
+            {
+                "name": "monocyte",
+                "count": 26942,
+                "percentage": 26.35
+            }
+        ]
+    },
+    {
+        "sample_id": 369,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9633,
+                "percentage": 9.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 34374,
+                "percentage": 34.62
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26472,
+                "percentage": 26.66
+            },
+            {
+                "name": "nk_cell",
+                "count": 10131,
+                "percentage": 10.2
+            },
+            {
+                "name": "monocyte",
+                "count": 18678,
+                "percentage": 18.81
+            }
+        ]
+    },
+    {
+        "sample_id": 370,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13888,
+                "percentage": 13.45
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24908,
+                "percentage": 24.12
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25142,
+                "percentage": 24.35
+            },
+            {
+                "name": "nk_cell",
+                "count": 14608,
+                "percentage": 14.15
+            },
+            {
+                "name": "monocyte",
+                "count": 24721,
+                "percentage": 23.94
+            }
+        ]
+    },
+    {
+        "sample_id": 371,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 3757,
+                "percentage": 3.98
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21002,
+                "percentage": 22.26
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29999,
+                "percentage": 31.8
+            },
+            {
+                "name": "nk_cell",
+                "count": 15805,
+                "percentage": 16.75
+            },
+            {
+                "name": "monocyte",
+                "count": 23777,
+                "percentage": 25.2
+            }
+        ]
+    },
+    {
+        "sample_id": 378,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13078,
+                "percentage": 12.88
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24014,
+                "percentage": 23.66
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29791,
+                "percentage": 29.35
+            },
+            {
+                "name": "nk_cell",
+                "count": 18243,
+                "percentage": 17.97
+            },
+            {
+                "name": "monocyte",
+                "count": 16374,
+                "percentage": 16.13
+            }
+        ]
+    },
+    {
+        "sample_id": 379,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 17131,
+                "percentage": 16.26
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31779,
+                "percentage": 30.17
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24216,
+                "percentage": 22.99
+            },
+            {
+                "name": "nk_cell",
+                "count": 12748,
+                "percentage": 12.1
+            },
+            {
+                "name": "monocyte",
+                "count": 19469,
+                "percentage": 18.48
+            }
+        ]
+    },
+    {
+        "sample_id": 380,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5710,
+                "percentage": 5.99
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27668,
+                "percentage": 29.04
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34343,
+                "percentage": 36.05
+            },
+            {
+                "name": "nk_cell",
+                "count": 14450,
+                "percentage": 15.17
+            },
+            {
+                "name": "monocyte",
+                "count": 13104,
+                "percentage": 13.75
+            }
+        ]
+    },
+    {
+        "sample_id": 426,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12193,
+                "percentage": 12.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26398,
+                "percentage": 27.22
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27993,
+                "percentage": 28.86
+            },
+            {
+                "name": "nk_cell",
+                "count": 11181,
+                "percentage": 11.53
+            },
+            {
+                "name": "monocyte",
+                "count": 19232,
+                "percentage": 19.83
+            }
+        ]
+    },
+    {
+        "sample_id": 427,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11273,
+                "percentage": 12.05
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25957,
+                "percentage": 27.75
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 22813,
+                "percentage": 24.39
+            },
+            {
+                "name": "nk_cell",
+                "count": 13820,
+                "percentage": 14.78
+            },
+            {
+                "name": "monocyte",
+                "count": 19663,
+                "percentage": 21.02
+            }
+        ]
+    },
+    {
+        "sample_id": 428,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 3953,
+                "percentage": 4.24
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25768,
+                "percentage": 27.67
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 35237,
+                "percentage": 37.84
+            },
+            {
+                "name": "nk_cell",
+                "count": 14868,
+                "percentage": 15.96
+            },
+            {
+                "name": "monocyte",
+                "count": 13304,
+                "percentage": 14.29
+            }
+        ]
+    },
+    {
+        "sample_id": 447,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7585,
+                "percentage": 7.68
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21945,
+                "percentage": 22.23
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26801,
+                "percentage": 27.15
+            },
+            {
+                "name": "nk_cell",
+                "count": 15746,
+                "percentage": 15.95
+            },
+            {
+                "name": "monocyte",
+                "count": 26652,
+                "percentage": 27.0
+            }
+        ]
+    },
+    {
+        "sample_id": 448,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5917,
+                "percentage": 5.61
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24450,
+                "percentage": 23.18
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 33741,
+                "percentage": 31.98
+            },
+            {
+                "name": "nk_cell",
+                "count": 11781,
+                "percentage": 11.17
+            },
+            {
+                "name": "monocyte",
+                "count": 29611,
+                "percentage": 28.07
+            }
+        ]
+    },
+    {
+        "sample_id": 449,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8797,
+                "percentage": 8.88
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28624,
+                "percentage": 28.91
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30689,
+                "percentage": 30.99
+            },
+            {
+                "name": "nk_cell",
+                "count": 18127,
+                "percentage": 18.31
+            },
+            {
+                "name": "monocyte",
+                "count": 12786,
+                "percentage": 12.91
+            }
+        ]
+    },
+    {
+        "sample_id": 483,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9905,
+                "percentage": 10.43
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 17870,
+                "percentage": 18.83
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30255,
+                "percentage": 31.87
+            },
+            {
+                "name": "nk_cell",
+                "count": 15817,
+                "percentage": 16.66
+            },
+            {
+                "name": "monocyte",
+                "count": 21079,
+                "percentage": 22.21
+            }
+        ]
+    },
+    {
+        "sample_id": 484,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 14062,
+                "percentage": 12.78
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28231,
+                "percentage": 25.65
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37382,
+                "percentage": 33.96
+            },
+            {
+                "name": "nk_cell",
+                "count": 9352,
+                "percentage": 8.5
+            },
+            {
+                "name": "monocyte",
+                "count": 21045,
+                "percentage": 19.12
+            }
+        ]
+    },
+    {
+        "sample_id": 485,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10786,
+                "percentage": 10.52
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25790,
+                "percentage": 25.15
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30280,
+                "percentage": 29.53
+            },
+            {
+                "name": "nk_cell",
+                "count": 15736,
+                "percentage": 15.35
+            },
+            {
+                "name": "monocyte",
+                "count": 19950,
+                "percentage": 19.46
+            }
+        ]
+    },
+    {
+        "sample_id": 498,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10176,
+                "percentage": 9.33
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18699,
+                "percentage": 17.14
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29642,
+                "percentage": 27.17
+            },
+            {
+                "name": "nk_cell",
+                "count": 19919,
+                "percentage": 18.26
+            },
+            {
+                "name": "monocyte",
+                "count": 30678,
+                "percentage": 28.12
+            }
+        ]
+    },
+    {
+        "sample_id": 499,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10355,
+                "percentage": 11.19
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21993,
+                "percentage": 23.77
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25198,
+                "percentage": 27.23
+            },
+            {
+                "name": "nk_cell",
+                "count": 13243,
+                "percentage": 14.31
+            },
+            {
+                "name": "monocyte",
+                "count": 21745,
+                "percentage": 23.5
+            }
+        ]
+    },
+    {
+        "sample_id": 500,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9346,
+                "percentage": 10.13
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27662,
+                "percentage": 29.98
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32952,
+                "percentage": 35.71
+            },
+            {
+                "name": "nk_cell",
+                "count": 13136,
+                "percentage": 14.24
+            },
+            {
+                "name": "monocyte",
+                "count": 9171,
+                "percentage": 9.94
+            }
+        ]
+    },
+    {
+        "sample_id": 510,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5778,
+                "percentage": 5.69
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21878,
+                "percentage": 21.55
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 39401,
+                "percentage": 38.81
+            },
+            {
+                "name": "nk_cell",
+                "count": 10595,
+                "percentage": 10.44
+            },
+            {
+                "name": "monocyte",
+                "count": 23867,
+                "percentage": 23.51
+            }
+        ]
+    },
+    {
+        "sample_id": 511,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11825,
+                "percentage": 12.55
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19982,
+                "percentage": 21.2
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30515,
+                "percentage": 32.38
+            },
+            {
+                "name": "nk_cell",
+                "count": 10340,
+                "percentage": 10.97
+            },
+            {
+                "name": "monocyte",
+                "count": 21583,
+                "percentage": 22.9
+            }
+        ]
+    },
+    {
+        "sample_id": 512,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8104,
+                "percentage": 7.72
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 32150,
+                "percentage": 30.61
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38844,
+                "percentage": 36.98
+            },
+            {
+                "name": "nk_cell",
+                "count": 9008,
+                "percentage": 8.58
+            },
+            {
+                "name": "monocyte",
+                "count": 16925,
+                "percentage": 16.11
+            }
+        ]
+    },
+    {
+        "sample_id": 537,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8150,
+                "percentage": 8.36
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23608,
+                "percentage": 24.22
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23747,
+                "percentage": 24.36
+            },
+            {
+                "name": "nk_cell",
+                "count": 9660,
+                "percentage": 9.91
+            },
+            {
+                "name": "monocyte",
+                "count": 32326,
+                "percentage": 33.16
+            }
+        ]
+    },
+    {
+        "sample_id": 538,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13400,
+                "percentage": 13.21
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 18650,
+                "percentage": 18.38
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28996,
+                "percentage": 28.58
+            },
+            {
+                "name": "nk_cell",
+                "count": 16240,
+                "percentage": 16.01
+            },
+            {
+                "name": "monocyte",
+                "count": 24168,
+                "percentage": 23.82
+            }
+        ]
+    },
+    {
+        "sample_id": 539,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4590,
+                "percentage": 4.08
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 35181,
+                "percentage": 31.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 39448,
+                "percentage": 35.1
+            },
+            {
+                "name": "nk_cell",
+                "count": 13118,
+                "percentage": 11.67
+            },
+            {
+                "name": "monocyte",
+                "count": 20062,
+                "percentage": 17.85
+            }
+        ]
+    },
+    {
+        "sample_id": 543,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10105,
+                "percentage": 10.33
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26845,
+                "percentage": 27.43
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 26528,
+                "percentage": 27.11
+            },
+            {
+                "name": "nk_cell",
+                "count": 10834,
+                "percentage": 11.07
+            },
+            {
+                "name": "monocyte",
+                "count": 23544,
+                "percentage": 24.06
+            }
+        ]
+    },
+    {
+        "sample_id": 544,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8779,
+                "percentage": 9.04
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26478,
+                "percentage": 27.27
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28409,
+                "percentage": 29.26
+            },
+            {
+                "name": "nk_cell",
+                "count": 16068,
+                "percentage": 16.55
+            },
+            {
+                "name": "monocyte",
+                "count": 17356,
+                "percentage": 17.88
+            }
+        ]
+    },
+    {
+        "sample_id": 545,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 17635,
+                "percentage": 17.02
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25319,
+                "percentage": 24.43
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30465,
+                "percentage": 29.4
+            },
+            {
+                "name": "nk_cell",
+                "count": 10129,
+                "percentage": 9.77
+            },
+            {
+                "name": "monocyte",
+                "count": 20087,
+                "percentage": 19.38
+            }
+        ]
+    },
+    {
+        "sample_id": 555,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10822,
+                "percentage": 10.52
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28122,
+                "percentage": 27.35
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 21371,
+                "percentage": 20.78
+            },
+            {
+                "name": "nk_cell",
+                "count": 17198,
+                "percentage": 16.72
+            },
+            {
+                "name": "monocyte",
+                "count": 25327,
+                "percentage": 24.63
+            }
+        ]
+    },
+    {
+        "sample_id": 556,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5948,
+                "percentage": 5.71
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 27680,
+                "percentage": 26.58
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31423,
+                "percentage": 30.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 19635,
+                "percentage": 18.86
+            },
+            {
+                "name": "monocyte",
+                "count": 19447,
+                "percentage": 18.68
+            }
+        ]
+    },
+    {
+        "sample_id": 557,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10701,
+                "percentage": 10.23
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28840,
+                "percentage": 27.58
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32733,
+                "percentage": 31.31
+            },
+            {
+                "name": "nk_cell",
+                "count": 15007,
+                "percentage": 14.35
+            },
+            {
+                "name": "monocyte",
+                "count": 17277,
+                "percentage": 16.52
+            }
+        ]
+    },
+    {
+        "sample_id": 564,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11853,
+                "percentage": 10.78
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21319,
+                "percentage": 19.39
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31389,
+                "percentage": 28.55
+            },
+            {
+                "name": "nk_cell",
+                "count": 20124,
+                "percentage": 18.31
+            },
+            {
+                "name": "monocyte",
+                "count": 25247,
+                "percentage": 22.97
+            }
+        ]
+    },
+    {
+        "sample_id": 565,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10498,
+                "percentage": 10.55
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22857,
+                "percentage": 22.96
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 40944,
+                "percentage": 41.13
+            },
+            {
+                "name": "nk_cell",
+                "count": 17199,
+                "percentage": 17.28
+            },
+            {
+                "name": "monocyte",
+                "count": 8042,
+                "percentage": 8.08
+            }
+        ]
+    },
+    {
+        "sample_id": 566,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13525,
+                "percentage": 13.67
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19529,
+                "percentage": 19.74
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37729,
+                "percentage": 38.14
+            },
+            {
+                "name": "nk_cell",
+                "count": 11867,
+                "percentage": 12.0
+            },
+            {
+                "name": "monocyte",
+                "count": 16278,
+                "percentage": 16.45
+            }
+        ]
+    },
+    {
+        "sample_id": 621,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10202,
+                "percentage": 10.08
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22492,
+                "percentage": 22.21
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32090,
+                "percentage": 31.69
+            },
+            {
+                "name": "nk_cell",
+                "count": 23411,
+                "percentage": 23.12
+            },
+            {
+                "name": "monocyte",
+                "count": 13064,
+                "percentage": 12.9
+            }
+        ]
+    },
+    {
+        "sample_id": 622,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11675,
+                "percentage": 11.42
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 35571,
+                "percentage": 34.8
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 17559,
+                "percentage": 17.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 17827,
+                "percentage": 17.44
+            },
+            {
+                "name": "monocyte",
+                "count": 19594,
+                "percentage": 19.17
+            }
+        ]
+    },
+    {
+        "sample_id": 623,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7292,
+                "percentage": 7.28
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28875,
+                "percentage": 28.83
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 27307,
+                "percentage": 27.27
+            },
+            {
+                "name": "nk_cell",
+                "count": 16386,
+                "percentage": 16.36
+            },
+            {
+                "name": "monocyte",
+                "count": 20286,
+                "percentage": 20.26
+            }
+        ]
+    },
+    {
+        "sample_id": 630,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 4944,
+                "percentage": 5.0
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23647,
+                "percentage": 23.92
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34584,
+                "percentage": 34.98
+            },
+            {
+                "name": "nk_cell",
+                "count": 22031,
+                "percentage": 22.28
+            },
+            {
+                "name": "monocyte",
+                "count": 13665,
+                "percentage": 13.82
+            }
+        ]
+    },
+    {
+        "sample_id": 631,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8361,
+                "percentage": 8.47
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26440,
+                "percentage": 26.78
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 30939,
+                "percentage": 31.34
+            },
+            {
+                "name": "nk_cell",
+                "count": 12909,
+                "percentage": 13.08
+            },
+            {
+                "name": "monocyte",
+                "count": 20077,
+                "percentage": 20.34
+            }
+        ]
+    },
+    {
+        "sample_id": 632,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11420,
+                "percentage": 12.39
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22798,
+                "percentage": 24.73
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 39709,
+                "percentage": 43.07
+            },
+            {
+                "name": "nk_cell",
+                "count": 7667,
+                "percentage": 8.32
+            },
+            {
+                "name": "monocyte",
+                "count": 10601,
+                "percentage": 11.5
+            }
+        ]
+    },
+    {
+        "sample_id": 660,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11812,
+                "percentage": 10.6
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31115,
+                "percentage": 27.93
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23984,
+                "percentage": 21.53
+            },
+            {
+                "name": "nk_cell",
+                "count": 21986,
+                "percentage": 19.74
+            },
+            {
+                "name": "monocyte",
+                "count": 22496,
+                "percentage": 20.2
+            }
+        ]
+    },
+    {
+        "sample_id": 661,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7580,
+                "percentage": 6.98
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 19541,
+                "percentage": 18.0
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38586,
+                "percentage": 35.55
+            },
+            {
+                "name": "nk_cell",
+                "count": 20153,
+                "percentage": 18.57
+            },
+            {
+                "name": "monocyte",
+                "count": 22671,
+                "percentage": 20.89
+            }
+        ]
+    },
+    {
+        "sample_id": 662,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6493,
+                "percentage": 6.62
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 20557,
+                "percentage": 20.96
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34751,
+                "percentage": 35.44
+            },
+            {
+                "name": "nk_cell",
+                "count": 16564,
+                "percentage": 16.89
+            },
+            {
+                "name": "monocyte",
+                "count": 19703,
+                "percentage": 20.09
+            }
+        ]
+    },
+    {
+        "sample_id": 675,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13628,
+                "percentage": 12.47
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 15969,
+                "percentage": 14.61
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 42725,
+                "percentage": 39.1
+            },
+            {
+                "name": "nk_cell",
+                "count": 23548,
+                "percentage": 21.55
+            },
+            {
+                "name": "monocyte",
+                "count": 13398,
+                "percentage": 12.26
+            }
+        ]
+    },
+    {
+        "sample_id": 676,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11016,
+                "percentage": 10.19
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 29897,
+                "percentage": 27.66
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24104,
+                "percentage": 22.3
+            },
+            {
+                "name": "nk_cell",
+                "count": 16664,
+                "percentage": 15.42
+            },
+            {
+                "name": "monocyte",
+                "count": 26420,
+                "percentage": 24.44
+            }
+        ]
+    },
+    {
+        "sample_id": 677,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 11827,
+                "percentage": 12.27
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25924,
+                "percentage": 26.89
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 22408,
+                "percentage": 23.24
+            },
+            {
+                "name": "nk_cell",
+                "count": 9528,
+                "percentage": 9.88
+            },
+            {
+                "name": "monocyte",
+                "count": 26724,
+                "percentage": 27.72
+            }
+        ]
+    },
+    {
+        "sample_id": 714,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7010,
+                "percentage": 6.61
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28331,
+                "percentage": 26.7
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29879,
+                "percentage": 28.16
+            },
+            {
+                "name": "nk_cell",
+                "count": 13292,
+                "percentage": 12.53
+            },
+            {
+                "name": "monocyte",
+                "count": 27610,
+                "percentage": 26.02
+            }
+        ]
+    },
+    {
+        "sample_id": 715,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 14904,
+                "percentage": 13.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30431,
+                "percentage": 27.7
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28439,
+                "percentage": 25.89
+            },
+            {
+                "name": "nk_cell",
+                "count": 17976,
+                "percentage": 16.36
+            },
+            {
+                "name": "monocyte",
+                "count": 18096,
+                "percentage": 16.47
+            }
+        ]
+    },
+    {
+        "sample_id": 716,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 18762,
+                "percentage": 16.84
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21991,
+                "percentage": 19.74
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31394,
+                "percentage": 28.18
+            },
+            {
+                "name": "nk_cell",
+                "count": 15767,
+                "percentage": 14.15
+            },
+            {
+                "name": "monocyte",
+                "count": 23497,
+                "percentage": 21.09
+            }
+        ]
+    },
+    {
+        "sample_id": 753,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8029,
+                "percentage": 7.72
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 33798,
+                "percentage": 32.48
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 36125,
+                "percentage": 34.71
+            },
+            {
+                "name": "nk_cell",
+                "count": 10662,
+                "percentage": 10.25
+            },
+            {
+                "name": "monocyte",
+                "count": 15448,
+                "percentage": 14.84
+            }
+        ]
+    },
+    {
+        "sample_id": 754,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5907,
+                "percentage": 5.41
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25494,
+                "percentage": 23.35
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 47842,
+                "percentage": 43.82
+            },
+            {
+                "name": "nk_cell",
+                "count": 12095,
+                "percentage": 11.08
+            },
+            {
+                "name": "monocyte",
+                "count": 17848,
+                "percentage": 16.35
+            }
+        ]
+    },
+    {
+        "sample_id": 755,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6774,
+                "percentage": 6.91
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 25695,
+                "percentage": 26.22
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 24421,
+                "percentage": 24.92
+            },
+            {
+                "name": "nk_cell",
+                "count": 19547,
+                "percentage": 19.95
+            },
+            {
+                "name": "monocyte",
+                "count": 21555,
+                "percentage": 22.0
+            }
+        ]
+    },
+    {
+        "sample_id": 825,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 9193,
+                "percentage": 9.7
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 26668,
+                "percentage": 28.13
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 28430,
+                "percentage": 29.99
+            },
+            {
+                "name": "nk_cell",
+                "count": 14646,
+                "percentage": 15.45
+            },
+            {
+                "name": "monocyte",
+                "count": 15856,
+                "percentage": 16.73
+            }
+        ]
+    },
+    {
+        "sample_id": 826,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 16248,
+                "percentage": 15.81
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 22635,
+                "percentage": 22.03
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31681,
+                "percentage": 30.83
+            },
+            {
+                "name": "nk_cell",
+                "count": 16273,
+                "percentage": 15.84
+            },
+            {
+                "name": "monocyte",
+                "count": 15920,
+                "percentage": 15.49
+            }
+        ]
+    },
+    {
+        "sample_id": 827,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8126,
+                "percentage": 8.24
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 24820,
+                "percentage": 25.17
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32233,
+                "percentage": 32.69
+            },
+            {
+                "name": "nk_cell",
+                "count": 13689,
+                "percentage": 13.88
+            },
+            {
+                "name": "monocyte",
+                "count": 19729,
+                "percentage": 20.01
+            }
+        ]
+    },
+    {
+        "sample_id": 840,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6774,
+                "percentage": 5.93
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23100,
+                "percentage": 20.23
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 43149,
+                "percentage": 37.79
+            },
+            {
+                "name": "nk_cell",
+                "count": 22197,
+                "percentage": 19.44
+            },
+            {
+                "name": "monocyte",
+                "count": 18948,
+                "percentage": 16.6
+            }
+        ]
+    },
+    {
+        "sample_id": 841,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 13000,
+                "percentage": 12.03
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 17515,
+                "percentage": 16.2
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 44053,
+                "percentage": 40.75
+            },
+            {
+                "name": "nk_cell",
+                "count": 21363,
+                "percentage": 19.76
+            },
+            {
+                "name": "monocyte",
+                "count": 12165,
+                "percentage": 11.25
+            }
+        ]
+    },
+    {
+        "sample_id": 842,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 5751,
+                "percentage": 5.49
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23428,
+                "percentage": 22.36
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37544,
+                "percentage": 35.84
+            },
+            {
+                "name": "nk_cell",
+                "count": 13001,
+                "percentage": 12.41
+            },
+            {
+                "name": "monocyte",
+                "count": 25030,
+                "percentage": 23.89
+            }
+        ]
+    },
+    {
+        "sample_id": 861,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7378,
+                "percentage": 7.57
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 34971,
+                "percentage": 35.88
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23672,
+                "percentage": 24.29
+            },
+            {
+                "name": "nk_cell",
+                "count": 14770,
+                "percentage": 15.15
+            },
+            {
+                "name": "monocyte",
+                "count": 16679,
+                "percentage": 17.11
+            }
+        ]
+    },
+    {
+        "sample_id": 862,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6039,
+                "percentage": 5.91
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 21828,
+                "percentage": 21.37
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 32804,
+                "percentage": 32.11
+            },
+            {
+                "name": "nk_cell",
+                "count": 19744,
+                "percentage": 19.33
+            },
+            {
+                "name": "monocyte",
+                "count": 21751,
+                "percentage": 21.29
+            }
+        ]
+    },
+    {
+        "sample_id": 863,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 2413,
+                "percentage": 2.37
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30627,
+                "percentage": 30.13
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 25833,
+                "percentage": 25.41
+            },
+            {
+                "name": "nk_cell",
+                "count": 19562,
+                "percentage": 19.24
+            },
+            {
+                "name": "monocyte",
+                "count": 23216,
+                "percentage": 22.84
+            }
+        ]
+    },
+    {
+        "sample_id": 873,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6632,
+                "percentage": 6.41
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 31342,
+                "percentage": 30.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 23954,
+                "percentage": 23.16
+            },
+            {
+                "name": "nk_cell",
+                "count": 17054,
+                "percentage": 16.49
+            },
+            {
+                "name": "monocyte",
+                "count": 24446,
+                "percentage": 23.64
+            }
+        ]
+    },
+    {
+        "sample_id": 874,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 19533,
+                "percentage": 19.25
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 32298,
+                "percentage": 31.83
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 22128,
+                "percentage": 21.81
+            },
+            {
+                "name": "nk_cell",
+                "count": 10837,
+                "percentage": 10.68
+            },
+            {
+                "name": "monocyte",
+                "count": 16660,
+                "percentage": 16.42
+            }
+        ]
+    },
+    {
+        "sample_id": 875,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 12312,
+                "percentage": 11.56
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 28657,
+                "percentage": 26.92
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 38461,
+                "percentage": 36.12
+            },
+            {
+                "name": "nk_cell",
+                "count": 12889,
+                "percentage": 12.11
+            },
+            {
+                "name": "monocyte",
+                "count": 14153,
+                "percentage": 13.29
+            }
+        ]
+    },
+    {
+        "sample_id": 876,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 10231,
+                "percentage": 11.07
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30240,
+                "percentage": 32.71
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 22070,
+                "percentage": 23.88
+            },
+            {
+                "name": "nk_cell",
+                "count": 10897,
+                "percentage": 11.79
+            },
+            {
+                "name": "monocyte",
+                "count": 18999,
+                "percentage": 20.55
+            }
+        ]
+    },
+    {
+        "sample_id": 877,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 8923,
+                "percentage": 8.09
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23275,
+                "percentage": 21.11
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 31351,
+                "percentage": 28.43
+            },
+            {
+                "name": "nk_cell",
+                "count": 19927,
+                "percentage": 18.07
+            },
+            {
+                "name": "monocyte",
+                "count": 26794,
+                "percentage": 24.3
+            }
+        ]
+    },
+    {
+        "sample_id": 878,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 6631,
+                "percentage": 7.12
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 30090,
+                "percentage": 32.3
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 29680,
+                "percentage": 31.86
+            },
+            {
+                "name": "nk_cell",
+                "count": 12186,
+                "percentage": 13.08
+            },
+            {
+                "name": "monocyte",
+                "count": 14581,
+                "percentage": 15.65
+            }
+        ]
+    },
+    {
+        "sample_id": 888,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7021,
+                "percentage": 7.08
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 16828,
+                "percentage": 16.96
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 37758,
+                "percentage": 38.06
+            },
+            {
+                "name": "nk_cell",
+                "count": 15363,
+                "percentage": 15.49
+            },
+            {
+                "name": "monocyte",
+                "count": 22236,
+                "percentage": 22.41
+            }
+        ]
+    },
+    {
+        "sample_id": 889,
+        "response": "yes",
+        "population_list": [
+            {
+                "name": "b_cell",
+                "count": 7478,
+                "percentage": 7.63
+            },
+            {
+                "name": "cd8_t_cell",
+                "count": 23497,
+                "percentage": 23.98
+            },
+            {
+                "name": "cd4_t_cell",
+                "count": 34983,
+                "percentage": 35.7
+            },
+            {
+                "name": "nk_cell",
+                "count": 9584,
+                "percentage": 9.78
+            },
+            {
+                "name": "monocyte",
+                "count": 22445,
+                "percentage": 22.91
+            }
+        ]
+    }
+]
