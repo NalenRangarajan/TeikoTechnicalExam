@@ -1,0 +1,65 @@
+
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Sample ID</th>
+                <th>Total Count</th>
+                <th>Population</th>
+                <th>Count</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+
+        <tbody id="sample-table">
+        </tbody>
+    </table>
+</div>
+
+<script>
+    fetch("table_data.json")
+        .then(response => response.json())
+        .then(data => {
+            const table = document.getElementById("sample-table");
+            const population_count = data[0].population_list.length;
+            data.forEach(row => {
+                for (let i = 0; i < population_count; i++){
+                    const tr = document.createElement("tr");
+
+                    tr.innerHTML = `
+                        <td>${row.sample_id}</td>
+                        <td>${row.total_count}</td>
+                        <td>${row.population_list[i].name}</td>
+                        <td>${row.population_list[i].count}</td>
+                        <td>${row.population_list[i].percentage}</td>
+                    `;
+
+                    table.appendChild(tr);
+                }
+
+                
+            });
+        });
+</script>
+<style>
+    .table-container {
+        max-height: 400px;
+        overflow-y: auto;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th {
+        position: sticky;
+        top: 0;
+        background: white;
+    }
+
+    th, td {
+        padding: 8px;
+        border: 1px solid #ccc;
+    }
+</style>
